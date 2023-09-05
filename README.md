@@ -20,6 +20,7 @@ composer update
 
 * Tras instalar las dependencias genere la key para passwport con el siguiente comando.
 
+```
 php artisan optimize
 ```
 
